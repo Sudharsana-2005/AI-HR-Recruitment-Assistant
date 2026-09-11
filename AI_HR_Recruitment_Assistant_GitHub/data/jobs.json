@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Python Developer",
+    "required_skills": ["Python", "SQL", "Git", "FastAPI", "REST API"],
+    "description": "Develop Python applications and REST APIs."
+  },
+  {
+    "title": "Data Analyst",
+    "required_skills": ["Python", "SQL", "Excel", "Power BI", "Statistics"],
+    "description": "Analyze business data and build reports and dashboards."
+  },
+  {
+    "title": "Machine Learning Engineer",
+    "required_skills": ["Python", "Machine Learning", "Pandas", "Scikit-learn", "SQL"],
+    "description": "Build and evaluate machine learning solutions."
+  }
+]

@@ -1,0 +1,9 @@
+HR Recruitment Screening Policy
+
+Resume screening should compare a candidate's stated qualifications with the
+requirements of the job description. Relevant skills, education, experience,
+certifications, and demonstrated project work may be considered.
+
+The AI assistant is an HR support tool. Recruiters must review important
+candidate information before making a hiring decision. The system must not
+invent qualifications that are not present in the candidate information.

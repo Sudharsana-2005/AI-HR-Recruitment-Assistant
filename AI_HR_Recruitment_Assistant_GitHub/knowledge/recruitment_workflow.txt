@@ -1,0 +1,9 @@
+Recruitment Workflow
+
+1. Receive job requirements.
+2. Collect and review candidate resumes.
+3. Screen candidates against job requirements.
+4. Shortlist suitable candidates for recruiter review.
+5. Schedule interviews and prepare interview questions.
+6. Update application status.
+7. Complete final hiring review by authorized human decision makers.

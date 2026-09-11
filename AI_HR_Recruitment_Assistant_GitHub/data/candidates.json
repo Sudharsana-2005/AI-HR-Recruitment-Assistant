@@ -1,0 +1,29 @@
+[
+  {
+    "candidate_id": "CAND-1001",
+    "name": "Candidate One",
+    "email": "candidate1@example.com",
+    "skills": ["Python", "SQL", "Git", "FastAPI", "REST API"],
+    "experience_years": 2,
+    "education": "B.E. Computer Science",
+    "application_status": "Shortlisted"
+  },
+  {
+    "candidate_id": "CAND-1002",
+    "name": "Candidate Two",
+    "email": "candidate2@example.com",
+    "skills": ["Python", "SQL", "Excel", "Power BI", "Statistics"],
+    "experience_years": 1,
+    "education": "B.Sc. Computer Science",
+    "application_status": "Under Review"
+  },
+  {
+    "candidate_id": "CAND-1003",
+    "name": "Candidate Three",
+    "email": "candidate3@example.com",
+    "skills": ["Python", "Machine Learning", "Pandas", "Scikit-learn", "SQL"],
+    "experience_years": 3,
+    "education": "M.Sc. Data Science",
+    "application_status": "Interview"
+  }
+]
